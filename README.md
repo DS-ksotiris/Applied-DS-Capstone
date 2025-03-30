@@ -5,4 +5,4 @@ SpaceX has transformed the space industry through innovation, offering Falcon 9 
 As a data scientist at a competing space startup, your task is to develop a machine learning system that can forecast whether a first stage will successfully land. This predictive model is vital for determining competitive pricing when bidding against SpaceX for launch contracts, as understanding landing success factors directly impacts cost structures and pricing strategy.
 
 
-#Konstantinos SOTIRIS
+Konstantinos SOTIRIS
